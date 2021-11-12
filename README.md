@@ -1,2 +1,2 @@
-# 바닐라자바스크립트
+# Vanilla javascript
     - 타자게임만들기
