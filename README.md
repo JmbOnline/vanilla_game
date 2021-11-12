@@ -4,7 +4,7 @@
 <img src="view.png" alt="" />
 
 ## Random Word API
-    - [Random Word API](https://random-word-api.herokuapp.com/home)
+    https://random-word-api.herokuapp.com/home
 
-## Axios
-    - [axios github](https://github.com/axios/axios)
+## Axios (github)
+    https://github.com/axios/axios
